@@ -16,3 +16,7 @@ Completely different.
 
 One more
 and also another one
+
+- Link to [pull/](pull/1)
+- Link to [/pull/1](/pull/1)
+- Link to [1](1)
